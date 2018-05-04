@@ -73,3 +73,17 @@ Browser.defaultResolverSequence = [
 , rst.makeAddressesUnique()
 ];
 ```
+
+
+
+
+
+
+
+
+
+```
+Endpoints:
+    http://192.168.1.20:8091/google-home-notifier
+    https://f2744a07.ngrok.io/google-home-notifier
+```
